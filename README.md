@@ -24,4 +24,8 @@ secure compared to an excel file since you can clearly define who can access you
 This database can help e-commerce websites understand product dynamics and give insights to 
 marketing teams to curate content towards their target audience which can improve product 
 sales, this can also help resolve customer issues as well as pinpoint the problem which can help 
-retain old customers and gain new customers
+retain old customers and gain new customers<br>
+Data Source: <br>
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce <br>
+
+https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist
