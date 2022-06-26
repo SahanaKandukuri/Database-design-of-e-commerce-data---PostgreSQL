@@ -1,4 +1,4 @@
-# Database-design-of-e-commerce-database---PostgreSQL
+# Database-design-of-e-commerce-data---PostgreSQL
 • Structured a database for an e-commerce website’s data in BCNF with fully identified entity relationships<br> • Identified and implemented the required constraints.<br>  • Executed advanced SQL queries(triggers, functions, etc) to identify the top-performing products, sellers and  marketing leads in the data
 
 ### Introduction of project and dataset
